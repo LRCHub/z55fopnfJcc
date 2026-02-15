@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "インスピレーション！",
+  "base_artist": "モーニング娘。",
+  "createdAt": "2026-02-15T01:05:02.087409Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インスピレーション (Inspiration)",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/01_インスピレーション_(Inspiration)_Anri.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インスピレーション",
+      "artist": "Anri",
+      "has_synced": true,
+      "path": "select/02_インスピレーション_Anri.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "インスピレーション",
+      "artist": "杏里",
+      "has_synced": true,
+      "path": "select/03_インスピレーション_杏里.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "インスピレーション",
+      "artist": "THE BLUE HEARTS",
+      "has_synced": true,
+      "path": "select/04_インスピレーション_THE_BLUE_HEARTS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インスピレーション!",
+      "artist": "モーニング娘。",
+      "has_synced": false,
+      "path": "select/pl_01_インスピレーション!_モーニング娘。.txt"
+    }
+  ]
+}
